@@ -1,0 +1,17 @@
+.box {
+  background-color: red;
+
+  text-align: center;
+
+  margin: 0 auto;
+}
+.box:hover {
+  cursor: pointer;
+  transform: translateY(-15px);
+}
+h2 {
+  background-color: lightblue;
+  color: red;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
